@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-
-**ryuta-messi/ryuta-messi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning NLP at NAIST
+- ⚡ Fun fact: ... If you like water, you already like 72% of me.
 
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuta-messi&layout=compact&show_icons=true&theme=buefy" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryuta-messi&theme=buefy&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuta-messi&layout=compact&show_icons=true&theme=material-palenight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryuta-messi&theme=material-palenight&show_icons=ture" />
 </p>
