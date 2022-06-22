@@ -1,6 +1,5 @@
 ### Hello 👀
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning NLP at NAIST
 - ⚡ Fun fact: ... If you like water, you already like 72% of me 
